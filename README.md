@@ -1,4 +1,25 @@
-### Hi there 👋
+### Max Grigorian
+
+Passionate developer, paranoid in self-improvement.
+More than 15 years of programming experience.
+Symfony framework fan and SymfonyCon attendee.
+Skills:
+• PHP 5/7, Symfony 2/3/4/5, Silex, Doctrine2, OOP, DI, Patterns
+• HTML 4/5, CSS 2/3, LESS, SASS
+• JavaScript, Vue 2, NUXT, Angular, jQuery, JSON, Google Maps API
+• MODx, Joomla, Opencart, Wordpress
+• MySQL, MongoDB, ValentinaDB
+• Memcached
+• Sphinx
+• Git, Subversion
+• Jenkins
+• Grunt, Webpack, Phing, Capistrano
+• PHPUnit, Codeception, Karma
+• Composer, npm, yarn, bower
+• Apache, Nginx
+• Vagrant, Docker
+• JIRA, Mantis, Redmine
+• Mac OS X, Linux, Unix, Windows 
 
 <!--
 **MAXakaWIZARD/MAXakaWIZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
