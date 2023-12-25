@@ -7,7 +7,7 @@ More than 15 years of programming experience.
 Symfony framework fan and SymfonyCon attendee.
 
 ### Skills
-* PHP 5/7, Symfony 2/3/4/5, Silex, Doctrine2, OOP, DI, Patterns
+* PHP 5/7/8, Symfony 2-7, Silex, Doctrine2, OOP, DI, Patterns
 * HTML 4/5, CSS 2/3, LESS, SASS
 * JavaScript, Vue 2, NUXT, Angular, jQuery, JSON, Google Maps API
 * MODx, Joomla, Opencart, Wordpress
