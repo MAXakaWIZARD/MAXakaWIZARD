@@ -15,7 +15,7 @@ Symfony framework fan and SymfonyCon attendee.
 * Ruby 2/3 (small pet projects just to touch base)
 * MODx, Joomla, Opencart, Wordpress
 * Memcached
-* Sphinx
+* Sphinx, Elasticsearch
 * Git, Subversion, Bitbucket
 * Phing, Grunt, Gulp, Webpack, Capistrano, Deployer
 * Codeception, PHPUnit, Jest, Karma, Vitest, Cypress, Sonar
