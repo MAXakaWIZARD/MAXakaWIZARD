@@ -11,6 +11,7 @@ Symfony framework fan and SymfonyCon attendee.
 * HTML, CSS, LESS, SASS, SCSS
 * JavaScript, Angular, Vue 2/3, Nuxt 2/3, jQuery, GraphQL
 * MySQL, MariaDB, MongoDB, ValentinaDB
+* Delphi 5/6/7 (Object Pascal), C++ Builder, RealBasic
 * Ruby 2/3 (small pet projects just to touch base)
 * MODx, Joomla, Opencart, Wordpress
 * Memcached
