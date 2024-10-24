@@ -2,27 +2,29 @@
 
 Passionate developer, paranoid in self-improvement.
 
-More than 15 years of programming experience.
+More than 18 years of programming experience.
 
 Symfony framework fan and SymfonyCon attendee.
 
 ### Skills
-* PHP 5/7/8, Symfony 2-7, Silex, Doctrine2, OOP, DI, Patterns
-* HTML 4/5, CSS 2/3, LESS, SASS
-* JavaScript, Vue 2, NUXT, Angular, jQuery, JSON, Google Maps API
+* PHP 5/7/8, Symfony 2-7, Silex, Doctrine 2/3, OOP, DI, Patterns
+* HTML, CSS, LESS, SASS, SCSS
+* JavaScript, Angular, Vue 2/3, Nuxt 2/3, jQuery, GraphQL
+* MySQL, MariaDB, MongoDB, ValentinaDB
+* Ruby 2/3 (small pet projects just to touch base)
 * MODx, Joomla, Opencart, Wordpress
-* MySQL, MongoDB, ValentinaDB
 * Memcached
 * Sphinx
-* Git, Subversion
-* Jenkins
-* Grunt, Webpack, Phing, Capistrano
-* PHPUnit, Codeception, Karma
+* Git, Subversion, Bitbucket
+* Phing, Grunt, Gulp, Webpack, Capistrano, Deployer
+* Codeception, PHPUnit, Jest, Karma, Vitest, Cypress, Sonar
 * Composer, npm, yarn, bower
 * Apache, Nginx
-* Vagrant, Docker
-* JIRA, Mantis, Redmine
-* Mac OS X, Linux, Unix, Windows 
+* Vagrant, Docker, VMware, Virtualbox
+* Jira, Mantis, Redmine
+* AWS Opsworks
+* MacOS, Linux, Unix, Windows
+
 
 ### Github Stats
 <details>
