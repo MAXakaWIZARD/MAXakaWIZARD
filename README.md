@@ -1,31 +1,34 @@
 ## Max Grigorian
 
-Passionate developer, paranoid in self-improvement.
+### Summary
+* Passionate engineer with more than 20 years of programming experience 
+* OSS contributor (Symfony, Aura project and others) 
+* Symfony fan and SymfonyCon attendee 
+* Spoken languages: English (professional working proficiency), Ukrainian (native), Russian (native) 
+* Favorite technologies: PHP, JavaScript, MySQL/MariaDB, MongoDB 
+* Hobbies: photography, cycling, airsoft, timeattack racing, simracing, gaming 
 
-More than 18 years of programming experience.
-
-Symfony framework fan and SymfonyCon attendee.
-
-### Skills
-* PHP 5/7/8, Symfony 2-7, Silex, Doctrine 2/3, OOP, DI, Patterns
-* HTML, CSS, LESS, SASS, SCSS
-* JavaScript, Angular, Vue 2/3, Nuxt 2/3, jQuery, GraphQL
-* MySQL, MariaDB, MongoDB, ValentinaDB
-* Delphi 5/6/7 (Object Pascal), C++ Builder, RealBasic
-* Ruby 2/3 (small pet projects just to touch base)
-* MODx, Joomla, Opencart, Wordpress
-* Memcached
-* Sphinx, Elasticsearch
-* Git, Subversion, Bitbucket
-* Phing, Grunt, Gulp, Webpack, Capistrano, Deployer
-* Codeception, PHPUnit, Jest, Karma, Vitest, Cypress, Sonar
-* Composer, npm, yarn, bower
-* Apache, Nginx
-* Vagrant, Docker, VMware, Virtualbox
-* Jira, Linear, Mantis, Redmine
-* AWS Opsworks
-* MacOS, Linux, Unix, Windows
-
+### Working stack
+* PHP 5-8, Symfony 2-8, Silex, Doctrine 2/3, OOP, DI, Patterns 
+* HTML, CSS, LESS, SASS, SCSS 
+* JavaScript, Angular 1, Vue 2/3, Nuxt 2/3, jQuery, GraphQL 
+* MySQL, MariaDB, MongoDB, ValentinaDB 
+* Delphi 5/6/7 (Object Pascal), C++ Builder, RealBasic 
+* Ruby 2/3 (small pet projects just to touch base) 
+* MODx, Joomla, Opencart, Wordpress 
+* Memcached 
+* Sphinx, Elasticsearch 
+* Git, Github, Bitbucket, Subversion 
+* Phing, Grunt, Gulp, Webpack, Capistrano, Deployer 
+* Codeception, PHPUnit, Jest, Karma, Vitest, Cypress, Sonar 
+* Composer, npm, yarn, bower 
+* Apache, Nginx 
+* Vagrant, Docker, VMware, Virtualbox 
+* Jira, Linear, Mantis, Redmine 
+* AWS Opsworks 
+* macOS, Linux, Unix, Windows 
+* PHPStorm, WebStorm, RubyMine, Cursor 
+* Claude, Codex, Composer 
 
 ### Github Stats
 <details>
