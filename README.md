@@ -31,11 +31,11 @@
 * Claude, Codex, Composer 
 
 ### Contacts:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://twitter.com/maxakawizard
 [linkedin]: https://www.linkedin.com/in/maxakawizard
+[twitter]: https://twitter.com/maxakawizard
 <!--
 **MAXakaWIZARD/MAXakaWIZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
