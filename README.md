@@ -30,13 +30,6 @@
 * PHPStorm, WebStorm, RubyMine, Cursor 
 * Claude, Codex, Composer 
 
-### Github Stats
-<details>
-  <summary>show</summary>
-
-  <img align="left" alt="MAXakaWIZARD's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MAXakaWIZARD&show_icons=true&hide_border=true" />
-</details>
-
 ### Contacts:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
